@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LS-page/static/css/main.082ef2ba.css",
+    "main.js": "/LS-page/static/js/main.ead0f58c.js",
+    "index.html": "/LS-page/index.html",
+    "main.082ef2ba.css.map": "/LS-page/static/css/main.082ef2ba.css.map",
+    "main.ead0f58c.js.map": "/LS-page/static/js/main.ead0f58c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082ef2ba.css",
+    "static/js/main.ead0f58c.js"
+  ]
+}
